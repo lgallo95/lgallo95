@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/lgallo95" target="blank"><img src="https://img.shields.io/twitter/follow/lgallo95?logo=twitter&style=for-the-badge" alt="lgallo95" /></a> </p>
 
-- 🔭 I’m currently working on [Untitled Instagram Clone.](WIP)
+- 🔭 I’m currently working on Untitled Instagram Clone.(WIP No Link provided)
 
 - 🌱 I’m currently learning **Javascript,Python, REACT.JS, Docker, K8s and more!**
 
-- 👯 I’m looking to collaborate on [Fun review app came up with.](N/A)
+- 👯 I’m looking to collaborate on An fun project I came up with. (DM if interested)
 
 - 🤝 I’m looking for help with **Open to anything that will help me do better as a dev.**
 
